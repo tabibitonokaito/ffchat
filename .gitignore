@@ -1,0 +1,24 @@
+*
+# ...even if they are in subdirectories
+!*/
+
+!.gitignore
+
+!main.py
+!run.sh
+
+!src/__init__.py
+!src/color_converter.py
+!src/exception.py
+!src/shared.py
+!src/sys_keyboard.py
+!src/sys_window.py
+
+!core/__init__.py
+!core/action.py
+!core/event.py
+!core/ffchat.py
+!core/thread.py
+!core/vars.py
+
+
